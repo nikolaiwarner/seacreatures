@@ -1,11 +1,12 @@
                     
-                                  _/_
-     (   _  __,    _, _   _  __,  /  , , _   _  (
-    /_)_(/_(_/(_  (__/ (_(/_(_/(_(__(_/_/ (_(/_/_)_
+                                         _/_
+            (   _  __,    _, _   _  __,  /  , , _   _  (
+           /_)_(/_(_/(_  (__/ (_(/_(_/(_(__(_/_/ (_(/_/_)_
  
-a little Python library for creating interactive IRC creatures
 
-2011 Nikolai Warner | MIT License
+    a little Python library for creating interactive IRC creatures
+
+               2011 Nikolai Warner | MIT License
 
 
 * Let's get creating! Import seacreatures and .join and .listen!
